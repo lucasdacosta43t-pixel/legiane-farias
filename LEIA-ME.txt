@@ -1,0 +1,15 @@
+SITE — LEGIANE FARIAS | ADVOCACIA
+
+Como publicar:
+1. Extraia o arquivo ZIP.
+2. Envie o conteúdo da pasta (index.html, style.css, script.js e assets/) para public_html na hospedagem.
+3. Abra o domínio para conferir.
+
+Personalizações recomendadas antes de publicar:
+- Confirmar número de inscrição na OAB e incluir se desejar.
+- Confirmar áreas específicas de atuação para substituir os textos genéricos da seção Atuação.
+- Confirmar cidade/endereço de atendimento, se quiser exibir.
+- Revisar o conteúdo e a identidade visual com a profissional.
+
+O site usa as duas fotografias fornecidas nesta conversa.
+Os botões de WhatsApp e Instagram já estão vinculados aos contatos informados.
